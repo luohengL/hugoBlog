@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "m10c"
+[params]
+  description = "路在脚下，心向远方"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/touxiang.jpg"
+  author = "罗恒"
+  authorlocation = "Chengdu, China"
+  authorwebsite = "suixinblog.cn"
+  authorbio= "Every man dies, not every man really lives."
+  logo = "images/touxiang.png"

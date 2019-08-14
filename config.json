@@ -1,0 +1,53 @@
+{
+  "disablePathToLower": true,
+  "theme":"yelee",
+  "params": {
+    "author": "Luoheng",
+    "title": "",
+    "subtitle": "理论指导实践，实践深化理论",
+    "description": "LuoHeng'Blog",
+    "root_url": "/",
+    "avatar": "images/touxiang.png",
+    "tagcloud": true,
+    "aboutme": "我就是我，是不一样的烟火",
+    "friends": {
+      "百度": "http://www.baidu.com",
+      "GitHub": "http://www.baidu.com"
+    },
+    "subnav": {
+      "Email": "mailto:luohenghlx@163.com",
+      "GitHub": "https://github.com/luohengL"
+    },
+    "menu": [
+      {
+        "label": "主页",
+        "link": "/"
+      },
+      {
+        "label": "所有文章",
+        "link": "/post"
+      },
+      {
+        "label": "标签云",
+        "link": "/tags/"
+      },
+      {
+        "label": "关于我",
+        "link": "/about/"
+      }
+    ],
+    "visit_counter": {
+      "on": true,
+      "site_visit": "本站到访数",
+      "page_visit": "本页阅读量"
+    },
+    "background_image": 5,
+    "fancybox": true,
+    "open_in_new": true,
+    "animate": false,
+    "changyan": {
+      "appid": "畅言appid",
+      "conf": "畅言conf"
+    }
+  }
+}
